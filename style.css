@@ -1,0 +1,41 @@
+body {
+  padding: 0px;
+  /* user-select: none; */
+}
+#head {
+  border: 2px solid black;
+  width: fit-content;
+  padding: 3px;
+  position: absolute;
+  left: 45vw;
+}
+#headerText {
+  margin: 0px;
+}
+#text {
+  position: relative;
+  top: 80px;
+  left: 45vw;
+}
+.Btns {
+  padding: 3px;
+  font-size: 20px;
+  position: relative;
+  top: 100px;
+  left: 37vw;
+  margin: 5px;
+}
+.Btns2 {
+  position: relative;
+  top: 170px;
+  margin: 0px;
+  width: 49vw;
+  height: 50px;
+  font-size: 20px;
+}
+#leftBtn2 {
+  background-color: orange;
+}
+#rightBtn2 {
+  background-color: grey;
+}
